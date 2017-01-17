@@ -18,16 +18,16 @@ minutes:
 
 ## Motivations for the Open Refine Lesson
 
-* It's really important that you know what you did. More journals/grants/etc. are also making it important for them to know what you did. You can capture all steps done to your data in Open Refine to the raw file and share them with your publication as supplemental material.
-* All steps are easily reversed in Refine.
-* You _must_ save your work to a new file; Refine _does not_ modify your original dataset.
+* It's really **important that you know what you did**. More journals/grants/etc. are also making it important for them to know what you did. You can capture all steps done to your data in Open Refine to the raw file and share them with your publication as supplemental material.
+* All **steps are easily reversed** in Refine.
+* You _must_ save your work to a new file; Refine **does not modify your original dataset**.
 * Data is often very messy - and this tool saves a lot of cleaning headaches.
-* Data cleaning steps often need repeating with multiple files. Refine is perfect for speeding up repetitive tasks.
+* Data cleaning steps often need repeating with multiple files. Refine is perfect for **speeding up repetitive tasks**.
 * Some concepts like clustering algorithms are quite complex, but Refine makes it easy to introduce them, use them, and show their power.
 
 ## Before we get started
 
-* Check that you have Firefox or Chrome browsers installed. Open Refine runs in your default browser. It will not run correctly in Internet Explorer.
+* Check that you have **Firefox or Chrome browsers installed**. Open Refine runs in your default browser. It will **not** run correctly in Internet Explorer.
 * Download software from [http://openrefine.org](http://openrefine.org) if you have not done this yet.
 * Unzip the downloaded file into a directory by double-clicking it (Mac) or right-clicking and selecting "Extract..." on Windows. Name that directory something like Open-Refine.
 * Go to your newly created Open-Refine directory.
@@ -35,8 +35,8 @@ minutes:
   * Windows: Click the google-refine.exe (this will launch a command prompt window, but you can ignore that and wait for the browser to launch)
   * Mac: Drag icon into Applications folder, and Ctrl-click/Open... it. (See [this article](https://support.apple.com/kb/PH21769?locale=en_US) for more information on what you're doing here.)
   * Linux: Type `./refine` into the terminal within the OpenRefine directory
-* Note: this is a Java program that runs on your machine (not in the cloud). It runs inside your browser, but no web connection is needed.
-* If you are using a different browser, or OpenRefine does not automatically open for you, point your browser at http://127.0.0.1:3333/ or http://localhost:3333 to launch the program.
+* Note: this is a Java program that runs on your machine (not in the cloud). It runs inside your browser, but **no web connection is needed.**
+* **Note:** If you are using a different browser, or OpenRefine does not automatically open for you, point your browser at http://127.0.0.1:3333/ or http://localhost:3333 to launch the program.
 
 ## Basics of Open Refine
 
